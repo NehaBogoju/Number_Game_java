@@ -3,7 +3,6 @@ package Project;
 import java.util.Random;
 import java.util.*;
 public class NumberGame {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Random random=new Random();
